@@ -1,4 +1,4 @@
-Docuemnt Editor
+## Document Editor
 
 ## About
 This project is a file storing application and rich text editor combined to create an interface and functionality that represents google docs.
